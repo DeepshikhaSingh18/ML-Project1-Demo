@@ -1,1 +1,1 @@
-## Complete Machine Learning project with Deployment
+## Complete Machine Learning Project with Deployment
